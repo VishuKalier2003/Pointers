@@ -8,7 +8,7 @@ below table also provides the ***difficulty level*** of every question. The ***d
 
 -----
 
-## ${\color{lightblue} Stack \space Table}$
+## ${\color{lightblue} Pointer \space Table}$
 
 
 | ${No.}$ | ${Question}$ | ${Question \space Link}$ | ${Difficulty \space Level}$ | ${Status}$ |
