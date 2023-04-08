@@ -13,16 +13,10 @@ below table also provides the ***difficulty level*** of every question. The ***d
 
 | ${No.}$ | ${Question}$ | ${Question \space Link}$ | ${Difficulty \space Level}$ | ${Status}$ |
 |-|-|-|-|-|
-| 1. | ***Reverse Problem*** | [Question-Link](https://github.com/VishuKalier2003/Reversing-Number/blob/main/Number.java) | ${\color{lightgreen} Easy}$ | ***Completed*** ✔️ |
-| 2. | ***Balanced Brackets Problem*** | [Question-Link](https://github.com/VishuKalier2003/Balanced/blob/main/Balanced.java) | ${\color{yellow} Medium}$ | ***Completed*** ✔️ |
-| 3. | ***Double List Problem*** | [Question-Link](https://github.com/VishuKalier2003/List-as-Stack/blob/main/DoubleList.java) | ${\color{yellow} Medium}$ | ***Completed*** ✔️ |
-| 4. | ***Push At Bottom Problem*** | [Question-Link](https://github.com/VishuKalier2003/Push-At-Bottom/blob/main/PushAtBottom.java) | ${\color{lightgreen} Easy}$ | ***Completed*** ✔️ |
-| 5. | ***Stack As Queue Problem*** | [Question-Link](https://github.com/VishuKalier2003/Stack-as-Queue/blob/main/Queues.java) | ${\color{lightgreen} Easy}$ | ***Completed*** ✔️ |
-| 6. | ***Validate Stack Problem*** | [Question-Link](https://github.com/VishuKalier2003/Validating-Stack-Operations/blob/main/ValidateStack.java) | ${\color{yellow} Medium}$ | ***Completed*** :heavy_check_mark: |
-| 7. | ***Operlapping Intervals Problem*** | [Question-Link](https://github.com/VishuKalier2003/Merging-Overlapping/blob/main/Merge.java) | ${\color{red} Hard}$ | ***Completed*** :heavy_check_mark: |
-| 8. | ***Visisble People Problem*** | [Question-Link](https://github.com/VishuKalier2003/Visisble/blob/main/Visible.java) | ${\color{red} Hard}$ | ***Completed*** :heavy_check_mark: |
-| 9. | ***Previous Lesse Problem*** | [Question-Link](https://github.com/VishuKalier2003/Previous/blob/main/Previous.java) | ${\color{red} Hard}$ | ***Completed*** :heavy_check_mark: |
-| 10. | ***Sorting Problem*** | [Question-Link](https://github.com/VishuKalier2003/Sorting-By-Stack/blob/main/Sort.java) | ${\color{yellow} Medium}$ | ***Completed*** :heavy_check_mark: |
+| 1. | ***Cookies Problem*** | [Question-Link](https://github.com/VishuKalier2003/Cookies/blob/main/Cookies.java) | ${\color{lightgreen} Easy}$ | ***Completed*** ✔️ |
+| 2. | ***Heaters Problem*** | [Question-Link](https://github.com/VishuKalier2003/Minimum-Radius-of-Heaters/blob/main/HeatersHouses.java) | ${\color{red} Hard}$ | ***Completed*** ✔️ |
+| 3. | ***Boats Problem*** | [Question-Link](https://github.com/VishuKalier2003/Boats/blob/main/Boat.java) | ${\color{yellow} Medium}$ | ***Completed*** ✔️ |
+
 
 -----
 
@@ -32,9 +26,9 @@ The Below Table provides the ***number of Questions on every difficulty***.
 
 | ${No.}$ | ${Question \space Type}$ | ${Total \space Questions}$ |
 |-|-|-|
-| 1. | ${\color{lightgreen} Easy}$ | $${3}$$ |
-| 2. | ${\color{yellow} Medium}$ | $${4}$$ |
-| 3. | ${\color{red} Hard}$ | $${3}$$ |
+| 1. | ${\color{lightgreen} Easy}$ | $${1}$$ |
+| 2. | ${\color{yellow} Medium}$ | $${1}$$ |
+| 3. | ${\color{red} Hard}$ | $${1}$$ |
 
 -----
 
